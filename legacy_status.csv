@@ -1,0 +1,4 @@
+year,report_type,report_code,status,note
+2010,annual,11011,API_UNAVAILABLE_PRE_2015,OpenDART financial API provides data from 2015 onward
+2010,half-year,11012,API_UNAVAILABLE_PRE_2015,OpenDART financial API provides data from 2015 onward
+2010,quarterly,11013,API_UNAVAILABLE_PRE_2015,OpenDART financial API provides data from 2015 onward

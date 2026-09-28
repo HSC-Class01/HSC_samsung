@@ -1,0 +1,16 @@
+{
+  "company_name": "삼성전자",
+  "stock_code": "005930",
+  "corp_code": "00126380",
+  "start_year": 2010,
+  "fs_div": "CFS",
+  "reports": {
+    "annual": "11011",
+    "half_year": "11012",
+    "quarter_1": "11013",
+    "quarter_3": "11014"
+  },
+  "download_original_filings": true,
+  "max_page_count": 100,
+  "dashboard_path": "docs"
+}
